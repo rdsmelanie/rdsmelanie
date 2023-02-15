@@ -9,7 +9,6 @@
 <img align="left" src="./images/image.png">
 
 <!--Langs-->
-<br><br><br>
 <br><br>
 <div align="center">
 <br>
@@ -26,6 +25,16 @@
 ![TypeScript](https://img.shields.io/badge/typescript-44266F.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-44266F.svg?style=for-the-badge&logo=vuedotjs&logoColor=white) 
 ![React](https://img.shields.io/badge/react-44266F.svg?style=for-the-badge&logo=react&logoColor=white) -->
+
+<br>
+<br>
+<br>
+
+<p>
+<a href="https://www.linkedin.com/in/rdsmelanie/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-9645F4?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</p>
+
+<img width="120px" src="./images/finger.png">
 </div>
 
 <!--Wave footer-->
