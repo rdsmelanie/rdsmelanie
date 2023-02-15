@@ -2,7 +2,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9645F4&height=130&section=header"/>
 
 <!--Typing-->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?&size=40&duration=5050&pause=1500&color=9645F4&center=true&vCenter=true&width=1000&height=50&lines=Hi%2C+I'm+M%C3%A9lanie)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&duration=4500&pause=500&color=9645F4&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+M%C3%A9lanie+%F0%9F%92%9C;Student+%7C+Web+Developer)
 
 <div>
 <!--Illustration-->
