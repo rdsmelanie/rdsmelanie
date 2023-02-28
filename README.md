@@ -25,7 +25,7 @@
 ![Heroku](https://img.shields.io/badge/heroku-44266F.svg?style=for-the-badge&logo=heroku&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-44266F.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
   
-### Curently learning :
+### Currently learning :
   
 ![React](https://img.shields.io/badge/react-44266F.svg?style=for-the-badge&logo=react&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-44266F?style=for-the-badge&logo=node.js&logoColor=white)
