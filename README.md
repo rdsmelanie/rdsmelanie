@@ -42,7 +42,7 @@
 
 ---
 <!--GitHub Stats-->
-<div width="100%" align="center">
-<img height="150rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rdsmelanie&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide=contribs&bg_color=0d1117&hide_border=true"/>
-<img height="158em" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdsmelanie&layout=compact&langs_count-16&theme=midnight-purple&bg_color=0d1117&hide_border=true"/>
+<div align="center">
+<img height="150rem" width="48%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rdsmelanie&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide=contribs&bg_color=0d1117&hide_border=true"/>
+<img height="150em" width="48%" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdsmelanie&layout=compact&langs_count-16&theme=midnight-purple&bg_color=0d1117&hide_border=true"/>
 </div>
