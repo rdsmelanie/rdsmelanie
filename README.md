@@ -10,7 +10,11 @@
 
 <!--Langs-->
 <br><br>
+  
 <div align="center">
+  
+<br>
+<br>
 <br>
 
 ![JavaScript](https://img.shields.io/badge/javascript-44266F.svg?style=for-the-badge&logo=javascript&logoColor=white) 
@@ -20,21 +24,17 @@
 ![PHP](https://img.shields.io/badge/php-44266F.svg?style=for-the-badge&logo=php&logoColor=white) 
 ![Heroku](https://img.shields.io/badge/heroku-44266F.svg?style=for-the-badge&logo=heroku&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-44266F.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-
-<!-- ![NodeJS](https://img.shields.io/badge/node.js-44266F?style=for-the-badge&logo=node.js&logoColor=white) 
+  
+### Curently learning :
+  
+![React](https://img.shields.io/badge/react-44266F.svg?style=for-the-badge&logo=react&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-44266F?style=for-the-badge&logo=node.js&logoColor=white)
+  
+<!--  
 ![TypeScript](https://img.shields.io/badge/typescript-44266F.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-44266F.svg?style=for-the-badge&logo=vuedotjs&logoColor=white) 
-![React](https://img.shields.io/badge/react-44266F.svg?style=for-the-badge&logo=react&logoColor=white) -->
+ -->
 
-<br>
-<br>
-<br>
-
-<p>
-<a href="https://www.linkedin.com/in/rdsmelanie/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-9645F4?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</p>
-
-<img width="120px" src="./images/finger.png">
 </div>
 
 <!--Wave footer-->
@@ -43,6 +43,6 @@
 ---
 <!--GitHub Stats-->
 <div width="100%" align="center">
-<img height="158rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rdsmelanie&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide=contribs&bg_color=0d1117&hide_border=true"/>
+<img height="150rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rdsmelanie&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide=contribs&bg_color=0d1117&hide_border=true"/>
 <img height="158em" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdsmelanie&layout=compact&langs_count-16&theme=midnight-purple&bg_color=0d1117&hide_border=true"/>
 </div>
